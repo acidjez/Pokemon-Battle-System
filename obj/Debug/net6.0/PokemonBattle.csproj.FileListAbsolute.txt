@@ -1,0 +1,14 @@
+C:\Users\Jez\GitHub\COS20007\PokemonBattle\bin\Debug\net6.0\PokemonBattle.exe
+C:\Users\Jez\GitHub\COS20007\PokemonBattle\bin\Debug\net6.0\PokemonBattle.deps.json
+C:\Users\Jez\GitHub\COS20007\PokemonBattle\bin\Debug\net6.0\PokemonBattle.runtimeconfig.json
+C:\Users\Jez\GitHub\COS20007\PokemonBattle\bin\Debug\net6.0\PokemonBattle.dll
+C:\Users\Jez\GitHub\COS20007\PokemonBattle\bin\Debug\net6.0\PokemonBattle.pdb
+C:\Users\Jez\GitHub\COS20007\PokemonBattle\obj\Debug\net6.0\PokemonBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jez\GitHub\COS20007\PokemonBattle\obj\Debug\net6.0\PokemonBattle.AssemblyInfoInputs.cache
+C:\Users\Jez\GitHub\COS20007\PokemonBattle\obj\Debug\net6.0\PokemonBattle.AssemblyInfo.cs
+C:\Users\Jez\GitHub\COS20007\PokemonBattle\obj\Debug\net6.0\PokemonBattle.csproj.CoreCompileInputs.cache
+C:\Users\Jez\GitHub\COS20007\PokemonBattle\obj\Debug\net6.0\PokemonBattle.dll
+C:\Users\Jez\GitHub\COS20007\PokemonBattle\obj\Debug\net6.0\refint\PokemonBattle.dll
+C:\Users\Jez\GitHub\COS20007\PokemonBattle\obj\Debug\net6.0\PokemonBattle.pdb
+C:\Users\Jez\GitHub\COS20007\PokemonBattle\obj\Debug\net6.0\PokemonBattle.genruntimeconfig.cache
+C:\Users\Jez\GitHub\COS20007\PokemonBattle\obj\Debug\net6.0\ref\PokemonBattle.dll
